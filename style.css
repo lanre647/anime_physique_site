@@ -1,0 +1,44 @@
+
+body {
+  font-family: 'Roboto', sans-serif;
+  background: #f9f9f9;
+  color: #222;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+}
+header {
+  background: #111;
+  color: #fff;
+  padding: 20px;
+  text-align: center;
+  font-family: 'Orbitron', sans-serif;
+  letter-spacing: 2px;
+}
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 20px;
+}
+h2 {
+  border-bottom: 2px solid #222;
+  padding-bottom: 5px;
+  margin-top: 40px;
+}
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 20px 0;
+}
+th, td {
+  padding: 10px;
+  border: 1px solid #ccc;
+  text-align: left;
+}
+ul {
+  padding-left: 20px;
+}
+.note {
+  font-style: italic;
+  color: #555;
+}
